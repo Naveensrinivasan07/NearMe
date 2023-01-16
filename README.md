@@ -181,17 +181,17 @@ near Tiruchirappalli are the important centers of Goddess worship in the state o
 ```
 
 ## Output:
-![output](./screenshots/out1.png)
+![output](./screenshots/out.1.png)
 
-![output](./screenshots/out2.png)
+![output](./screenshots/out.2.png)
 
-![output](./screenshots/out3.png)
+![output](./screenshots/out.3.png)
 
-![output](./screenshots/out4.png)
+![output](./screenshots/out.4.png)
 
-![output](./screenshots/out4.png)
+![output](./screenshots/out.4.png)
 
-![output](./screenshots/out5.png)
+![output](./screenshots/out.5.png)
 
 ## HTML Validator
 ![output](./screenshots/valid.png)
